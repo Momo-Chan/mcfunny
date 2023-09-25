@@ -8,8 +8,8 @@
     "gateway": "skilltree:magic_gateway",
     "icon_texture": "skilltree:textures/icons/void.png",
     "position": {
-        "x": 461,
-        "y": -121
+        "x": 481,
+        "y": -141
     },
     "tooltip_texture": "skilltree:textures/tooltip/gateway.png",
     "tree": "skilltree:tree"
