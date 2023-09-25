@@ -4,6 +4,11 @@
       "amount": 0.05,
       "attribute": "skilltree:damage_against_burning",
       "operation": "multiply_base"
+    },
+    {
+      "amount": 0.05,
+      "attribute": "irons_spellbooks:fire_spell_power",
+      "operation": "multiply_base"
     }
   ],
   "background_texture": "skilltree:textures/icons/background/lesser.png",
